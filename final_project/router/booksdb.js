@@ -14,8 +14,8 @@ let books = {
       8: {"author": "Jane Austen","title": "Pride and Prejudice", "reviews": {} },
       9: {"author": "Honor\u00e9 de Balzac","title": "Le P\u00e8re Goriot", "reviews": {} },
       10: {"author": "Samuel Beckett","title": "Molloy, Malone Dies, The Unnamable, the trilogy",  "reviews": {
-        "review1": { "user": "Michael", "comment": "A true literary masterpiece!" }
-    } }
+        "Michael": "A true literary masterpiece!" }
+    }
 }
 
 module.exports=books;
